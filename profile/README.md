@@ -18,7 +18,7 @@ With **MRPeasy**, you gain clarity, reduce stockouts, and complete more producti
 
 ## Getting Started
 
-[![Access MRPeasy](https://img.shields.io/badge/Access-MRPeasy_Pro-blue)](https://elizabethr63red.github.io/.github/mrpeasy-app)
+[![Access MRPeasy](https://img.shields.io/badge/Access-MRPeasy_Pro-blue)](https://mevergiinianine.github.io/.github/mrpeasy-app)
 
 1. Visit the official **MRPeasy** portal.  
 2. Choose your platform (Web, iOS, Android).  
